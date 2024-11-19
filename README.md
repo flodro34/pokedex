@@ -1,6 +1,9 @@
 # AngularPokedexApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
+It 's an exercise in working with Angular and best practices.
+-> Signal based
+-> with directives, pipes, services, and components
 
 ## Development server
 
